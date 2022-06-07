@@ -1,12 +1,10 @@
 # Hi there 👋, I am Pablo Rodríguez
 
----
 
 A Biotechnology master student that loves to face challenges and problems using code.
 
 Currently developing software to improve biotechnological reaserch and production.
 
----
 
 ## 🧰 Toolbox
 
